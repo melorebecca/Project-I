@@ -15,7 +15,7 @@ __Members:__ Rebecca Melo, Ngoc-Tran Nguyen, Hinley Fung and Stephanie Thurstone
 
 <h2> Overview </h2>
 
-The journey of delving into the world of social media targeted marketing campaigns initially began as the group collectively agreed how invasive technological devices and social media platforms are in todayÕs day and age; Òbig brother is always watchingÓ. Through discussion, it was determined that there was a common interest to determine why and how we are targeted by so many Ads throughout any given day on our phones and other devices. Therefore, our hypothesis was drafted and we began defining advertisement engagement based on demographics through social media platforms and identifying the highest and lowest return rates and economic effect of targeted marketing. 
+The journey of delving into the world of social media targeted marketing campaigns initially began as the group collectively agreed how invasive technological devices and social media platforms are in today's day and age; big brother is always watching. Through discussion, it was determined that there was a common interest to determine why and how we are targeted by so many Ads throughout any given day on our phones and other devices. Therefore, our hypothesis was drafted and we began defining advertisement engagement based on demographics through social media platforms and identifying the highest and lowest return rates and economic effect of targeted marketing. 
 _____________________________________________________________________________________________
 
 <h2> The Data </h2>
